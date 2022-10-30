@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "arial", sans-serif;
+  src: url("../fonts/Arial-BoldMT.woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "arial", sans-serif;
+  src: url("../fonts/ArialMT.woff");
+  font-weight: 400;
+}/*# sourceMappingURL=fonts.css.map */

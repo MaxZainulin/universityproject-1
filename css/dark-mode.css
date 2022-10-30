@@ -1,0 +1,63 @@
+body{
+    background: rgb(44, 41, 41);
+    transition: 2s;
+}
+span{
+    color: #fff;
+}
+.text-dark{
+    color: #fff;
+}
+.content-section_item-parargaph span{
+    color: #fff;
+}
+.content-section_item-text i{
+    color: #fff;
+}
+.footer{
+    background-color: rgba(36, 29, 29, 0.699);
+}
+.footer_nav-item a{
+    color: #fff;
+}
+.header_nav-link a:hover{
+    color: #fff;
+}
+.button_theme{
+    color: orange;
+    border: none;
+    color: #fe9b00;
+    position: relative;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.box_auth form {
+    position: absolute;
+    inset: 2px;
+    background: rgb(175, 171, 171);
+    padding: 50px 40px;
+    border-radius: 8px;
+    z-index: 2;
+    display: flex;
+}
+.box_auth h2 {
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+.btn_auth {
+    border: none;
+    outline: none;
+    padding: 11px 25px;
+    background: #45f3ff98;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    width: 100px;
+    margin: 10px 71px;
+}
